@@ -1,0 +1,6 @@
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Common\bin\Debug\UOMDiveSpirit.Common.dll
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Common\bin\Debug\UOMDiveSpirit.Common.pdb
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Common\obj\Debug\UOMDiveSpirit.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Common\obj\Debug\UOMDiveSpirit.Common.dll
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Common\obj\Debug\UOMDiveSpirit.Common.pdb
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Common\obj\Debug\UOMDiveSpirit.Common.csprojAssemblyReference.cache

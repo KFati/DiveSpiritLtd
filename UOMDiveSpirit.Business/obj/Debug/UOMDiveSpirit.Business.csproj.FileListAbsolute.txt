@@ -1,0 +1,11 @@
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\bin\Debug\UOMDiveSpirit.Business.dll
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\bin\Debug\UOMDiveSpirit.Business.pdb
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\bin\Debug\UOMDiveSpirit.Common.dll
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\bin\Debug\UOMDiveSpirit.Data.dll
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\bin\Debug\UOMDiveSpirit.Common.pdb
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\bin\Debug\UOMDiveSpirit.Data.pdb
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\obj\Debug\UOMDiveSpirit.Business.csprojAssemblyReference.cache
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\obj\Debug\UOMDiveSpirit.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\obj\Debug\UOMDiveSpirit.Business.csproj.CopyComplete
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\obj\Debug\UOMDiveSpirit.Business.dll
+C:\Users\Kaneez Fatima\source\repos\UOMAssignmentDiveSpirit\UOMDiveSpirit.Business\obj\Debug\UOMDiveSpirit.Business.pdb
